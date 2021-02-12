@@ -1,1 +1,1 @@
-# SuperHDR
+# HDR

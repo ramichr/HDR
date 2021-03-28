@@ -1,4 +1,4 @@
-# HDR
+# HDR Plus
 
 Projekt für Modul 'Bildbasierte Computergrafik' an der TH Köln im Master Medieninformatik.
 

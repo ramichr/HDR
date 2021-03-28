@@ -4,7 +4,7 @@ Projekt für Modul 'Bildbasierte Computergrafik' an der TH Köln im Master Medie
 
 Implementation/Nachbau des SuperHDR-Algorithmus (https://ieeexplore.ieee.org/document/6976844)
 
-Nutzung: SuperHDR_2 ausführen. Es werden numpy, opencv, imageio , Canon_cr3 und PyQt5 vorausgesetzt.
+Nutzung: main.py  ausführen. Es werden numpy, opencv, imageio , Canon_cr3 und PyQt5 vorausgesetzt.
 
 für numpy nutzen sie : pip install numpy
 

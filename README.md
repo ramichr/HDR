@@ -16,7 +16,7 @@ Nutzung: main.py  ausführen. Es werden numpy, opencv, imageio , Canon_cr3 und P
 
 * für **PyQt5** nutzen sie : _python -m pip install PyQt5_
 
-* für die Upload des TIF bildern nutzen sie : _python -m pip install pillow_
+* für das Hochladen des TIF bildern nutzen sie : _python -m pip install pillow_
 
 
 

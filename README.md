@@ -6,17 +6,17 @@ Implementation/Nachbau des SuperHDR-Algorithmus (https://ieeexplore.ieee.org/doc
 
 Nutzung: main.py  ausführen. Es werden numpy, opencv, imageio , Canon_cr3 und PyQt5 vorausgesetzt.
 
-für numpy nutzen sie : pip install numpy
+* für **numpy** nutzen sie : _pip install numpy_
 
-für OpenCv nutzen sie : pip install opencv-python
+* für **OpenCv** nutzen sie : _pip install opencv-python_
 
-für imageio nutzen sie : pip install imageio und Run das File " imagioRun.py "
+* für **imageio** nutzen sie : _pip install imageio_ und Run das File `imagioRun.py`
 
-für Canon_cr3 nutzen sie : python -m pip install canon-cr3
+* für **Canon_cr3** nutzen sie : _python -m pip install canon-cr3_
 
-für PyQt5 nutzen sie : python -m pip install PyQt5
+* für **PyQt5** nutzen sie : _python -m pip install PyQt5_
 
-für die Uplode des TIF bildern nutzen sie : python -m pip install pillow
+* für die Uplode des TIF bildern nutzen sie : _python -m pip install pillow_
 
 
 
